@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="guideHeader" type="id" />
+    <item name="header" type="id" />
+    <item name="imgLogo" type="id" />
+    <item name="tvSubtitulo" type="id" />
+</resources>
